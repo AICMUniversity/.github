@@ -6,4 +6,6 @@
     <q>Artificial Intelligence and Computational Modeling University</q>
     </div>
 
-:Please clarify: aicmu is a ``virtual university``.
+:Please clarify: aicmu is a `virtual university`_.
+
+.. _virtual university: https://aicmu.eu.org/help/virtual-university
