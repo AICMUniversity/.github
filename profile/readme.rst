@@ -22,13 +22,13 @@ AICMU is a research-oriented virtual university. As the name suggests, we primar
 :`RTA`_: Robotics Technology and Automation
 :`SP`_: Speech Processing
 
-.. _CVIP: https://github.com/AICMUniversity/teams/cvip
-.. _DSDA: https://github.com/AICMUniversity/teams/dsda
-.. _HCIIS: https://github.com/AICMUniversity/teams/hciis
-.. _MATH: https://github.com/AICMUniversity/teams/math
-.. _NLPN: https://github.com/AICMUniversity/teams/nlpn
-.. _RTA: https://github.com/AICMUniversity/teams/rta
-.. _SP: https://github.com/AICMUniversity/teams/sp
+.. _CVIP: https://github.com/orgs/AICMUniversity/teams/cvip
+.. _DSDA: https://github.com/orgs/AICMUniversity/teams/dsda
+.. _HCIIS: https://github.com/orgs/AICMUniversity/teams/hciis
+.. _MATH: https://github.com/orgs/AICMUniversity/teams/math
+.. _NLPN: https://github.com/orgs/AICMUniversity/teams/nlpn
+.. _RTA: https://github.com/orgs/AICMUniversity/teams/rta
+.. _SP: https://github.com/orgs/AICMUniversity/teams/sp
 
 You can choose the college that interests you and apply for admission. After joining a college, please remember to set the visibility of your affiliation with AICMU to public.
 
