@@ -5,3 +5,5 @@
     <div align="right">
     <q>Artificial Intelligence and Computational Modeling University</q>
     </div>
+
+:Tips: Please note that aicmu is an ``unreal`` and ``unregister`` university.
