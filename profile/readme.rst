@@ -6,8 +6,8 @@
     <img align="right" src="https://ghproxy.com/github.com/AICMUniversity/.github/blob/main/profile/logo.svg" height="128">
     <h1 align="right">AICMU</h1>
     <div align="right">
-    <q>Artificial Intelligence and Computational Modeling University</q>
     </div>
+
 
 AICMU is a research-oriented virtual university. As the name suggests, we primarily focus on studying **artificial intelligence** and **model computation**. Here is a list of colleges at AICMU:
 
