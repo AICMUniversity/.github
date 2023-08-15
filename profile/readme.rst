@@ -9,9 +9,6 @@
     <q>Artificial Intelligence and Computational Modeling University</q>
     </div>
 
-
-You can join aicmu by sending an `Apply`_.
-
 AICMU is a research-oriented virtual university. As the name suggests, we primarily focus on studying **artificial intelligence** and **model computation**. Here is a list of colleges at AICMU:
 
 :`CVIP`_: Computer Vision and Image Processing
@@ -22,6 +19,10 @@ AICMU is a research-oriented virtual university. As the name suggests, we primar
 :`RTA`_: Robotics Technology and Automation
 :`SP`_: Speech Processing
 
+You can choose the college that interests you and `apply`_ for admission. After joining a college, please remember to set the visibility of your affiliation with AICMU to public.
+
+In particular, if you have already published papers in the relevant field, you may apply for the **honorary professor qualification** in the corresponding college.
+
 .. _CVIP: https://github.com/orgs/AICMUniversity/teams/cvip
 .. _DSDA: https://github.com/orgs/AICMUniversity/teams/dsda
 .. _HCIIS: https://github.com/orgs/AICMUniversity/teams/hciis
@@ -29,9 +30,4 @@ AICMU is a research-oriented virtual university. As the name suggests, we primar
 .. _NLPN: https://github.com/orgs/AICMUniversity/teams/nlpn
 .. _RTA: https://github.com/orgs/AICMUniversity/teams/rta
 .. _SP: https://github.com/orgs/AICMUniversity/teams/sp
-
-You can choose the college that interests you and apply for admission. After joining a college, please remember to set the visibility of your affiliation with AICMU to public.
-
-In particular, if you have already published papers in the relevant field, you may apply for the **honorary professor qualification** in the corresponding college.
-
-.. _Apply: https://aicmu.eu.org/apply
+.. _apply: https://aicmu.eu.org/apply
