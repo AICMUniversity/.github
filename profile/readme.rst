@@ -8,4 +8,7 @@
 
 :Please clarify: aicmu is a `virtual university`_.
 
+You can join aicmu by sending an `Apply`_.
+
 .. _virtual university: https://aicmu.eu.org/help/virtual-university
+.. _Apply: https://aicmu.eu.org/apply
