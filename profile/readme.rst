@@ -17,7 +17,7 @@ AICMU is a research-oriented virtual university. As the name suggests, we primar
 :`MATH`_: Mathematics
 :`NLPN`_: Natural Language Processing and Text Analysis
 :`RTA`_: Robotics Technology and Automation
-:`SP`_: Speech Processing
+:`AP`_: Audio Processing
 
 You can choose the college that interests you and `apply`_ for admission. After joining a college, please remember to set the visibility of your affiliation with AICMU to public.
 
@@ -29,5 +29,5 @@ In particular, if you have already published papers in the relevant field, you m
 .. _MATH: https://github.com/orgs/AICMUniversity/teams/math
 .. _NLPN: https://github.com/orgs/AICMUniversity/teams/nlpn
 .. _RTA: https://github.com/orgs/AICMUniversity/teams/rta
-.. _SP: https://github.com/orgs/AICMUniversity/teams/sp
+.. _AP: https://github.com/orgs/AICMUniversity/teams/ap
 .. _apply: https://aicmu.eu.org/apply
