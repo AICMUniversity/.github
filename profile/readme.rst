@@ -1,4 +1,4 @@
-*Please clarify: aicmu is a virtual university, get more help at https://aicmu.eu.org/help/virtual-university.*
+*Please clarify: aicmu is a virtual university, get more help at https://aicmu.ac.cn/help/virtual-university.*
 
 
 .. raw:: html
@@ -30,4 +30,4 @@ In particular, if you have already published papers in the relevant field, you m
 .. _NLPN: https://github.com/orgs/AICMUniversity/teams/nlpn
 .. _RTA: https://github.com/orgs/AICMUniversity/teams/rta
 .. _AP: https://github.com/orgs/AICMUniversity/teams/ap
-.. _apply: https://aicmu.eu.org/apply
+.. _apply: https://aicmu.ac.cn/apply
