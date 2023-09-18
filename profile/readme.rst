@@ -1,4 +1,4 @@
-*Please clarify: aicmu is a virtual university, get more help at https://aicmu.ac.cn/help/virtual-university.*
+*Please clarify: aicmu is a virtual university, get more help at https://aicmu.ac.cn/help?query=virtual-university.*
 
 
 .. raw:: html
