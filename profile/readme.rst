@@ -3,7 +3,7 @@
 
 .. raw:: html
 
-    <img align="right" src="https://ghproxy.com/github.com/AICMUniversity/.github/blob/main/profile/logo.svg" height="128">
+    <img align="right" src="https://mirror.ghproxy.com/github.com/AICMUniversity/.github/blob/main/profile/logo.svg" height="128">
     <h2 align="right">Artificial Intelligence and Computational Modeling University</h2>
     <div align="right">
     </div>
